@@ -1,0 +1,5 @@
+image,label,field,issue,mine,peer,verdict,guideline_rule,action
+D01.png,face,eye_left,khác giá trị (IoU=1.00),unknown,open,mine,Không đoán khi mắt bị che/mờ hoặc không thấy rõ trên IR,giữ unknown
+D02.png,face,glasses,khác giá trị (IoU=1.00),none,unknown,mine,Chỉ ghi unknown khi không nhìn rõ vùng mắt; ảnh D02 thấy rõ không đeo kính,giữ none
+S01_rgb.png,person,seat,khác giá trị (IoU=1.00),rear_left,rear_right,mine,Ghế gọi theo xe (không theo ảnh): bên phải ảnh OMS nhìn về sau là rear_left của xe,giữ rear_left
+S03_ir.png,person,seatbelt,khác giá trị (IoU=1.00),unknown,not_worn,mine,Trên IR vùng áo tối/không thấy rõ dây an toàn thì ghi unknown (không đoán not_worn),giữ unknown

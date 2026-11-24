@@ -1,0 +1,6 @@
+frame_id,source,phenomenon,affected_field,effect_on_label
+S01_ir,IR_sim,Không thấy rõ dây an toàn trên nền áo tối ở ảnh IR mô phỏng,seatbelt,"Ghi unknown; không đoán not_worn dù ảnh RGB cùng cảnh cũng khó phân biệt"
+S03_ir,IR_sim,Vùng tối ở hàng ghế sau làm giảm tương phản chi tiết quần áo và dây đai,seatbelt,"Ghi unknown theo nguyên tắc không đoán khi bị che/thiếu tương phản"
+S05_ir,IR_sim,Ảnh IR mô phỏng mất thông tin màu sắc nên không phân biệt được chi tiết bề mặt vật thể,object,"Chỉ gán hình dạng/vị trí hộp bao, không suy diễn thuộc tính màu"
+D01,real_IR,Ánh sáng IR thật tạo độ tương phản cao trên da mặt nhưng vùng mắt trái bị khuất/mờ góc nghiêng,eye_left,"Ghi unknown, không ghi open hay closed"
+D03,real_IR,Đốm phản xạ LED cận hồng ngoại trên tròng kính che mất đồng tử,right_eye_state,"Ghi unknown, không đoán trạng thái mắt"

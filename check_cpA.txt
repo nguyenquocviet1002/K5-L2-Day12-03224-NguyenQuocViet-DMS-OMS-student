@@ -1,0 +1,8 @@
+File: export_final.zip · chỉ kiểm ảnh: S01_ir, S01_rgb, S02_ir, S02_rgb
+Ảnh: 4 · đã có frame_meta: 4 · số đối tượng: child_seat=4, face=4, infant_seat=2, object=1, person=4
+  [WARN] S01_ir.png: ảnh SVIRO là ảnh dựng: light nên là 'unknown'
+  [WARN] S01_rgb.png: ảnh SVIRO là ảnh dựng: light nên là 'unknown'
+  [WARN] S01_rgb.png: child_seat: seat=driver trên ảnh SVIRO (camera chỉ nhìn hàng ghế sau)
+  [WARN] S02_ir.png: ảnh SVIRO là ảnh dựng: light nên là 'unknown'
+  [WARN] S02_rgb.png: ảnh SVIRO là ảnh dựng: light nên là 'unknown'
+Kết quả: 0 lỗi, 5 cảnh báo. Cảnh báo cần bạn tự xét, không tự động là sai.
